@@ -1,0 +1,2 @@
+[build]
+  chunkSizeWarningLimit = 1000 # Atur sesuai kebutuhan Anda
