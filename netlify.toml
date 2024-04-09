@@ -1,2 +1,5 @@
 [build]
-  chunkSizeWarningLimit = 1000 # Atur sesuai kebutuhan Anda
+  command = "npm run build"
+  publish = "build/"
+  functions = "functions/"
+  chunkSizeWarningLimit = 1000
